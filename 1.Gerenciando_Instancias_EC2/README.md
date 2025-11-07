@@ -59,13 +59,13 @@ echo '<html><h1>Hello From Your Web Server!</h1></html>' > /var/www/html/index.h
 ![Diagrama](/1.Gerenciando_Instancias_EC2/img/diagrama-desafio-dio.drawio.png)
 
 ### Instância em execução
-![Instância em execução](/desafios_code_girls_2025/1.Gerenciando_Instancias_EC2/img/instancia-rodando.png)
+![Instância em execução](/1.Gerenciando_Instancias_EC2/img/instancia-rodando.png)
 
 ### Regras de Entrada Aplicada
-![regras de entrada](/desafios_code_girls_2025/1.Gerenciando_Instancias_EC2/img/regras-de-entrada.png)
+![regras de entrada](/1.Gerenciando_Instancias_EC2/img/regras-de-entrada.png)
 
 ### Página Web acessada via IP público
-![Página Web Apache](/desafios_code_girls_2025/1.Gerenciando_Instancias_EC2/img/pagina-web.png)
+![Página Web Apache](/1.Gerenciando_Instancias_EC2/img/pagina-web.png)
 
 > ⚠️ **Observação:** Esta instância já foi encerrada e não está mais em execução.  
 > As imagens aqui apresentadas são apenas para fins de documentação do desafio.
