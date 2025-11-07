@@ -56,7 +56,7 @@ echo '<html><h1>Hello From Your Web Server!</h1></html>' > /var/www/html/index.h
 
 > 🧩 *Diagrama criado por mim como parte do desafio para representar a arquitetura do projeto.*
 
-![Diagrama]( /desafios_code_girls_2025/1.Gerenciando_Instancias_EC2/img/diagrama-desafio-dio.drawio.png)
+![Diagrama](/desafios_code_girls_2025/1.Gerenciando_Instancias_EC2/img/diagrama-desafio-dio.drawio.png)
 
 ### Instância em execução
 ![Instância em execução](/desafios_code_girls_2025/1.Gerenciando_Instancias_EC2/img/instancia-rodando.png)
